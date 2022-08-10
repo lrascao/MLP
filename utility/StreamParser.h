@@ -1,5 +1,5 @@
 #pragma once
-#define __PROG_TYPES_COMPAT__
+/* #define __PROG_TYPES_COMPAT__ */
 #include <Arduino.h>
 #include "CommandDispatcherBase.h"
 
